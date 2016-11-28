@@ -1,1 +1,2 @@
-plik testowy nowy
+plik testowy 
+nowa linia dodana
